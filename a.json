@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Nhocconsr",
+    "description": "Thích là nhích ^^!"
+  },
+  "data": [
+    {
+      "name": "TruyệnCV",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/MoccanTN/3/main/truyencv/plugin.zip",
+      "version": 1,
+      "source": "https://metruyencv.com",
+      "icon": "https://raw.githubusercontent.com/MoccanTN/3/main/truyencv/icon.png",
+      "description": "Đọc truyện trên trang TruyệnCV",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    ]
+}
