@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "author": "Nhocconsr",
+    "author": "Nhoccons",
     "description": "Thích là nhích ^^!"
   },
   "data": [
     {
-      "name": "TruyệnCV",
+      "name": "Truyện chữ",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/MoccanTN/3/main/truyencv/plugin.zip",
       "version": 1,
